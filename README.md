@@ -11,7 +11,7 @@ This is an unofficial tool!
 Run scripts with parameters:
 - Input: SMIM (as .7z or extracted folder)
 - Output: Output directory
-- -z: Optional parameter to set a custom path for 7zip
+- -z: Optional parameter to set a custom (non-standard) path for 7zip
 A functional call could look like this:
 ```
 python "C:\Downloads" "C:\MyFolder" -z "C:\CustomProgramFolder\7zip\7z.exe"
