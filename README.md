@@ -1,13 +1,13 @@
 # SMIM-Extractor
 Script to extract the Skyrim-Mod Static-Mesh Improvement mod. (For easier manual install)
-##Disclaimer
+## Disclaimer
 This is an unofficial tool!
-##Requirements
+## Requirements
 - Download [SMIM](http://www.nexusmods.com/skyrim/mods/8655/ "SMIM")
 - [Python 3.x ](https://www.python.org/)
 - 7zip, if you want to run it directly on the .7z-file (currently not recommended because of copy stability issues
 
-##Usage
+## Usage
 Run scripts with parameters:
 - Input: SMIM (as .7z or extracted folder)
 - Output: Output directory
